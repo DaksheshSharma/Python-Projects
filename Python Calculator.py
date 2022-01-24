@@ -1,4 +1,6 @@
 #Python Calculator
+#Made by Dakshesh Sharma
+#https://github.com/DaksheshSharma/Python-Projects
 for i in range (1,501):
     a = float(input("Enter 1st no : "))
     b = float(input("Enter 2nd no : "))
